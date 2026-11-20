@@ -1,0 +1,1 @@
+{"description":"A GitHub-compatible git forge in a single Node process: git smart HTTP (protocol v0 and v2), the REST v3 surface, GraphQL v4 and an MCP endpoint over one in-memory store.","engines":{"node":">=22.18"},"license":"MIT","name":"makefun-github-forge","private":true,"scripts":{"start":"node --experimental-strip-types main.ts"},"type":"module","version":"1.0.0"}
